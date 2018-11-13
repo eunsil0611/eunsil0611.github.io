@@ -105,7 +105,7 @@ author:
   bio              : "개발 블로그"
   location         : "서울 특별시"
   email            : "mailto:es0611@naver.com"
-  uri              : "https://eunsil0611.github.io"
+  uri              : "https://blog.naver.com/es0611"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "es960611"
   vine             :
   weibo            :
   xing             :
